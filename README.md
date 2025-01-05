@@ -139,7 +139,7 @@ docker run -e EMAIL_USER="username" \
   EMAIL_HOST="mail.gandi.net" \
   EMAIL_PORT=587 \
   TO="me@myemail.com" \
-  -p 8080:8080 lexoyo/serverless-form
+  -p 8080:8080 lexoyo/serverless-forms
 ```
 
 ### 1 click deploy
